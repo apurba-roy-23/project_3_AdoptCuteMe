@@ -11,6 +11,8 @@ h3{
   border: 2px solid black;
   padding: 10px;
   border-radius: 20px;
+  display: flex;
+  flex-direction:column;
 }
 .cards img{
   width: 100%;
