@@ -1,3 +1,6 @@
+*{
+  box-size:border-box;
+}
 h2, span{
   color: gold;
   font-style: italic;
@@ -38,3 +41,10 @@ h3{
     text-align: center;
   }
 }
+@media( max-width: 400px){
+ p{
+  font-size: .8em;
+ }
+}
+  
+
